@@ -1,7 +1,7 @@
 # python_playroom
 Python repository to learn and play with python
 
-The python Aprentice book.
+The python Apprentice book.
 
 Robert Smallshire, Austin Bingham and Sixty North
 
