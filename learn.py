@@ -10,3 +10,9 @@ capital = "pamplona"
 print(capital.capitalize())
 """Strings are unmutable objects"""
 print(capital)
+
+capitalBytes = capital.encode('utf-8')
+
+print(capitalBytes)
+
+print(capitalBytes.decode('utf-8'))
